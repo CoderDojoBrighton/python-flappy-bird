@@ -1,5 +1,5 @@
 ---
+weight: 3
 bookFlatSection: true
-weight: 1
+title: "Part 3"
 ---
-

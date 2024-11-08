@@ -1,5 +1,5 @@
-baseURL = 'https://coderdojobrighton.github.io/tutorial-template'
-title = 'Your Project'
+baseURL = 'https://coderdojobrighton.github.io/python-flappy-bird'
+title = 'Flappy Bird'
 theme = "hugo-book"
 
 [markup]
@@ -7,16 +7,13 @@ theme = "hugo-book"
     unsafe = true
 
 [menu]
-[[menu.after]]
-    name = "Browse Code"
-    url = "https://github.com/CoderDojoBrighton/tutorial-template"
-    weight = 10
+
 
 # See details at https://github.com/alex-shpak/hugo-book
 [params]
     BookTheme = 'light'
-    BookToC = true
+    BookToC = false
     BookSearch = false
     BookComments = false
-    BookLogo = "favicon.png"
+    xBookLogo = "favicon.png"
     BookSection = 'docs'
